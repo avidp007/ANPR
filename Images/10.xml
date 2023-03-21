@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>10.jpg</filename>
+	<path>F:\Jecrc project\Project\Images\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>598</ymin>
+			<xmax>1094</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>
